@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HashMap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HashMap.war">
+      <element id="artifact" artifact-name="HashMap:war exploded" />
+    </root>
+  </artifact>
+</component>
